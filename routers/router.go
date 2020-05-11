@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"myproject/controllers"
+	"github.com/JiekeW/first_go_web/controllers"
 	"github.com/astaxie/beego"
 )
 

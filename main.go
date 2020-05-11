@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/astaxie/beego/orm"
-	_ "myproject/routers"
+	_ "github.com/JiekeW/first_go_web/routers"
 	"github.com/astaxie/beego"
 	_ "github.com/go-sql-driver/mysql"
 )
